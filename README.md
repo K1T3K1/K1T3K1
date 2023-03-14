@@ -27,4 +27,4 @@ I have following **English Certificates**:
 ![Git](https://img.shields.io/badge/Git-blue?logo=git&style=for-the-badge&color=grey)
 
 ## Stats:
-[![Stats](https://github-readme-stats-k1t3k1.vercel.app/api?username=K1T3K1&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=K1T3K1&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
