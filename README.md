@@ -1,15 +1,15 @@
 # Hi, I'm glad You're here! :relaxed:
 
-## Co-creator of [let's talk (about) IT](https://letstalkit.io) - another dev blog that is definitely worth reading
 
 ## About me:
-My name is Kajetan. I'm currently Backend Developer at **ABERG CONNECT**
+My name is Kajetan. I'm currently Data Engineer at Nest!Bank
 
 I'm also **Computer Sciences and Econometrics** Student at [**Białystok University of Technology**](https://pb.edu.pl/)
 
 I have following **English Certificates**:
 - EF SET English Certificate 76/100 (C2 Proficient) - [Check the certificate](https://www.efset.org/cert/21zHxv)
 - EnglishScore Core Skills - CEFR C1 - Certification ID: ***6ee17f4e***
+- Azure DP-900 - [Check the certificate](https://learn.microsoft.com/pl-pl/users/ZarzyckiKajetanPatryk-2564/credentials/EDF241F243DCC85D?ref=https%3a%2f%2fwww.linkedin.com%2f)
 
 ## My skills consist of following:
 ![Cpp](https://img.shields.io/badge/C++20-blue?logo=C%2B%2B&style=for-the-badge&color=purple)
@@ -22,9 +22,11 @@ I have following **English Certificates**:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-blue?logo=rabbitmq&style=for-the-badge&color=black)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge&color=white)  
 ![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge&color=white)
+![Databricks](https://img.shields.io/badge/Databricks-blue?logo=databricks&style=for-the-badge&color=white)
 ![Pandas](https://img.shields.io/badge/Pandas-blue?logo=pandas&style=for-the-badge&color=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-blue?logo=tensorflow&style=for-the-badge&color=grey)
 ![Git](https://img.shields.io/badge/Git-blue?logo=git&style=for-the-badge&color=grey)
+![Kafka](https://img.shields.io/badge/ApacheKafka-blue?logo=apachekafka&style=for-the-badge&color=grey)
 
 ## Stats:
 [![Stats](https://github-readme-stats.vercel.app/api?username=K1T3K1&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
