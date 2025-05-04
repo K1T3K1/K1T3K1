@@ -28,8 +28,3 @@ I have following **Certificates**:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-blue?logo=rabbitmq&style=for-the-badge&color=black)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&style=for-the-badge&color=black)
 ![Terraform](https://img.shields.io/badge/Terraform-blue?logo=Terraform&style=for-the-badge&color=black)  
-## Currently working on:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K1T3K1&repo=zigfeeds)](https://github.com/K1T3K1/zigfeeds)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=K1T3K1&repo=http_server_python)](https://github.com/K1T3K1/http_server_python)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K1T3K1&layout=donut&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
